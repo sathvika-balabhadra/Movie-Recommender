@@ -4,11 +4,11 @@ A full-stack Movie Recommender built using machine learning and web technologies
 
 # Features
 
-# Content-Based Filtering: Recommends movies using similarity scores computed from genres, overviews, and keywords.
-# Data Cleaning & Preprocessing: Handles missing data, feature extraction, and vectorization for model readiness.
-# Machine Learning Integration: Uses TF-IDF Vectorizer and cosine similarity to compute movie relationships.
-# Search Functionality: Users can search for any movie and get personalized suggestions in real-time.
-# Web Interface: Built using Django, providing a dynamic front end for interaction with the ML model.
+ Content-Based Filtering: Recommends movies using similarity scores computed from genres, overviews, and keywords.
+ Data Cleaning & Preprocessing: Handles missing data, feature extraction, and vectorization for model readiness.
+ Machine Learning Integration: Uses TF-IDF Vectorizer and cosine similarity to compute movie relationships.
+ Search Functionality: Users can search for any movie and get personalized suggestions in real-time.
+ Web Interface: Built using Django, providing a dynamic front end for interaction with the ML model.
 
 # Tech Stack
 
