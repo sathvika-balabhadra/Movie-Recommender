@@ -1,7 +1,7 @@
 [project]
-name = "movie_recommendation"
+name = "Movie-Recommender"
 version = "0.1.0"
-description = "A full-stack Movie Recommendation System that allows users to discover movies based on popularity, genre, and content-based filtering"
+description = "A Movie Recommender that allows users to discover movies based on popularity, genre, and content-based filtering"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
